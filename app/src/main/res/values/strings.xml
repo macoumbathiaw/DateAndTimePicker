@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DateAndTimePicker</string>
+    <string name="save">save</string>
+    <string name="textview">TextView</string>
+</resources>
